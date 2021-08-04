@@ -1,0 +1,24 @@
+{
+  "name": "npm-typescript-repo",
+  "version": "1.0.0",
+  "description": "My npm package using typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpit2425/npm-typescript-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpit2425/npm-typescript-repo/issues"
+  },
+  "homepage": "https://github.com/arpit2425/npm-typescript-repo#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
